@@ -1,4 +1,4 @@
-# A Deep Learning Code for Classifying Types of Bullets  
+# Using Deep Learning for Classifying Types of Bullets  
 # Introduction
 At war or at demilitarized zones, it is important to distinguish between the allies' and enemies' gunshots. One way to make this possible is by determining the bullets the gun was used with. 
 
